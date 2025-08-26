@@ -1,2 +1,5 @@
 # Coffee-Shop-Analysis
-Analyzing data for the new CEO to understand the current position of the company based on data for the previous month.
+# Introduction
+# Problem Statement
+Bright Coffee Shop appointed a new CEO who needed data-driven insights to grow revenue and improve product performance. The 
+challenge was to analyze historical transactional data and identity:
