@@ -36,4 +36,4 @@ To transform and analyze Brigh Coffee Shop's transactional data in order to:
 - Peak Sales Periods: Most sales occured in the Morning(6-11am) and afternoon(12-4pm), aligning with coffee/meal rush hours.
 - Day Type Trends: Weekdays had consistently higher sales volume than weekends, driven by workday routines.
 - High-Value Transactions: Sorting by total_amount revealed premium beverage products as the biggest revenue drivers.
-- Underperfoming Areas: Nihgts sales were the lowest, highlighting an opportunity for promotions or extende offers in this time slot.
+- Underperfoming Areas: Nights sales were the lowest, highlighting an opportunity for promotions or extende offers in this time slot.
